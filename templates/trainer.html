@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Credit Card Default - Model Training</title>
+</head>
+
+<body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 10px;
+            background-color: #508ef2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .input-box {
+            display: flex;
+            flex-direction: column;
+            margin: 5px;
+        }
+
+        .input-box label {
+            font-weight: bold;
+        }
+
+        .input-box input[type="number"] {
+            width: 100px;
+            padding: 5px;
+            margin-top: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        h3 {
+            margin-top: 20px;
+            color: #333;
+        }
+        .btn-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+    </style>
+    <h1>Credit Card Default - Model Training</h1>
+    <h1>Instructions</h1>
+    <h2>After Clicking Start Trainer, Training pipeline will start running</h2>
+    <h2>It will take few minutes of time to complete. </h2>
+    <h2>After Completion, logs will be displayed on the page.</h2>
+    <h2>Even if page is closed or refreshed, pipeline will keep running in background</h2>
+    <h2>If you dont want to see logs click on button below to route to homepage</h2>
+    
+    <form action="/start_trainer">
+        <button type="submit">Start Trainer</button>
+    </form>
+    <form action="/">
+        <button type="submit">Back to Homepage</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,8 @@
+
+venv/
+logs/
+.git
+.gitignore
+src/artifact/
+logs/
+.logs

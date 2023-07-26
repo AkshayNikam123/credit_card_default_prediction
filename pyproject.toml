@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+
+[project]
+name = "cc_default_ml_nitin7478"
+version = "0.0.5"
+authors = [
+  { name="Nitin Udmale", email="nitin7478@gmail.com" },
+]
+description = "My first moduler coding project , end to end machine learning pipeline for credit card default project"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+
+dependencies = [
+    "dill",
+    "evidently",
+    "Flask",
+    "gunicorn",
+    "numba",
+    "numpy",
+    "pandas",
+    "PyYAML",
+    "requests",
+    "scikit-learn",
+    "urllib3",
+    "xlrd"]

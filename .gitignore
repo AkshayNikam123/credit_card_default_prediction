@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# user defined
+logs/
+.logs
+/src/cc_default_ml_nitin7478/src/artifact
+src/cc_default_ml_nitin7478/src/artifact
+/src/cc_default_ml_nitin7478/logs/
+src/cc_default_ml_nitin7478/logs
+
+
 # Distribution / packaging
 .Python
 build/
