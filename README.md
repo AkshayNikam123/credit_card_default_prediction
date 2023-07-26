@@ -4,8 +4,6 @@
 ## Project Demo Video Link : 
 Youtube : https://youtu.be/vSqoueBL9WA
 
-## Linkdn Profile : 
-Linkdn : https://www.linkedin.com/in/nitinudmale/
 
 ## Product Description
 
