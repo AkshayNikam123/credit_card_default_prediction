@@ -2,7 +2,8 @@
 ### End To End Machine Learning Pipeline
 
 ## Project Demo Video Link : 
-Youtube : https://youtu.be/vSqoueBL9WA
+https://drive.google.com/file/d/1YzqmzNQQDi-a-PyK7LlJEzhv_VgotvFX/view?usp=drive_link
+
 
 
 ## Product Description
