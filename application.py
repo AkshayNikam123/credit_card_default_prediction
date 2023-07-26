@@ -93,10 +93,10 @@ def start_trainer():
     return render_template('start_trainer.html', logs=log_content)
 
 
-
+"""
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port=8000,workers=4)
-    
-    
+    app.run()
+"""  
+    #host="0.0.0.0",port=8000,workers=4
     
 
